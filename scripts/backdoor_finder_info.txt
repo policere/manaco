@@ -1,8 +1,7 @@
 This is not official Manaco backdoor script.
 And developer is not developers a Manaco!
 
-With this script you can use backdoors
-in games.
+With this script you can use backdoors in games.
 Use: Finding backdoor -> enter any script,
 this script EXECUTED AT SERVED! (If backdoor
 finded!)
